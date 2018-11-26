@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "578073992375",
+    "firebase_url": "https://cimbhackathon.firebaseio.com",
+    "project_id": "cimbhackathon",
+    "storage_bucket": "cimbhackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578073992375:android:8f42a54564ab6306",
+        "android_client_info": {
+          "package_name": "com.cimbhackathon.cimbhackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578073992375-1dejgbsfika4pd66dak72bm98t1bud7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cimbhackathon.cimbhackathon",
+            "certificate_hash": "464b2d73ace635a132ea4b1bc1ec72d00546bf32"
+          }
+        },
+        {
+          "client_id": "578073992375-hornkpjt6llshic0vfre7efecae909i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd4cYpKyxaRtYsxTFvznh-5EO5kh2Qkmk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578073992375-hornkpjt6llshic0vfre7efecae909i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
